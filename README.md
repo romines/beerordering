@@ -8,6 +8,8 @@ Data is pulled from two Google spreadsheets are used that are not included here.
 
 Some of the form is dynamically generated based on 'products' (beers) pulled in from a beer spreadsheet that looks like this (some of the beers are hardcoded in the script, as they infrequently change):
 
+** View README 'Raw' to make plaintext tables intelligible **
+
 +----------------------------+-----------+----------+--------------------------------------------------------+
 | Beer Name                  | Sixth BBL | Half BBL | Description URL (optional)                             |
 +----------------------------+-----------+----------+--------------------------------------------------------+
